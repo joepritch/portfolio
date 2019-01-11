@@ -16,7 +16,7 @@ body  {
 .sidelinks  {
   color: rgb(255, 170, 170);
   margin-left: 10px;
-  line-height: 40px;
+
 }
 .sidelinks:hover  {
   color: rgb(212, 106, 106);
@@ -24,7 +24,6 @@ body  {
 .sideabout  {
   color: rgb(255, 170, 170);
   margin-left: 10px;
-  margin-top: 30px;
   line-height: 100px;
 }
 .sideabout:hover  {
@@ -53,9 +52,13 @@ a {
 }
 .abouttext  {
   background-color: rgb(212, 106, 106);
+  border-radius: 4px;
   color: rgb(255, 170, 170);
   text-shadow: 2px 2px 4px rgb(85, 0, 0);
 }
 .panel-heading  {
   text-align: center;
+}
+h5  {
+  font-size: 20px;
 }
