@@ -2,7 +2,6 @@
   float: left;
   width: 150px;
   background-color: rgb(85, 0, 0);
-  height: 100vh;
 }
 body  {
   background-color: rgb(128, 21, 21);
@@ -72,4 +71,13 @@ h5  {
 }
 .abouttext a {
   text-decoration: underline;
+}
+.header  {
+  margin-bottom: 90px;
+}
+.desc {
+  color: rgb(212, 106, 106);
+  margin-left: 15px;
+  margin-right: 10px;
+  font-size: 11px;
 }
