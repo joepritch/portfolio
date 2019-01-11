@@ -6,6 +6,7 @@
 }
 body  {
   background-color: rgb(128, 21, 21);
+  margin: 0px;
 }
 .sidetext  {
     color: rgb(255, 170, 170);
@@ -35,4 +36,16 @@ h1  {
 }
 a {
   text-decoration: none;
+}
+.container  {
+  margin-left: 150px;
+  margin-top: 0px;
+  padding-top: 0px;
+  border-top: 0px;
+}
+.jumbotron  {
+  background-color: grey;
+}
+.header {
+  text-align: center;
 }
