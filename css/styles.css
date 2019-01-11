@@ -1,21 +1,38 @@
 .sidebar  {
   float: left;
   width: 150px;
-  height: 100%;
+  height: 900px;
   background-color: rgb(85, 0, 0);
-  margin-left: 0px;
-  margin-top: 0px;
-  padding-left: 0px;
-  padding-top: 0px;
-  border-left: 0px;
-  border-top: 0px;
 }
 body  {
   background-color: rgb(128, 21, 21);
 }
-.repolinks  {
+.sidetext  {
+    color: rgb(255, 170, 170);
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 11px;
+}
+.sidelinks  {
   color: rgb(255, 170, 170);
   margin-left: 10px;
-  font-family: cursive;
+  line-height: 40px;
+}
+.sidelinks:hover  {
+  color: rgb(212, 106, 106);
+}
+.sideabout  {
+  color: rgb(255, 170, 170);
+  margin-left: 10px;
+  margin-top: 30px;
+  line-height: 100px;
+}
+h1  {
+  font-size: 15px;
+  margin-left: 10px;
+  color: rgb(212, 106, 106);
+  text-decoration: underline;
+}
+a {
   text-decoration: none;
 }
