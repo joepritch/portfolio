@@ -1,14 +1,17 @@
 .sidebar  {
   float: left;
   width: 150px;
-  background-color: rgb(85, 0, 0);
+  background-color: rgb(63, 19, 94);
 }
 body  {
-  background-color: rgb(128, 21, 21);
-  margin: 0px;
+  color: rgb(212, 145, 251);
+  background-image: url("../img/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100% 100%;
 }
 .sidetext  {
-    color: rgb(255, 170, 170);
     margin-left: 10px;
     margin-right: 10px;
     font-size: 11px;
@@ -20,22 +23,21 @@ body  {
   color: rgb(212, 106, 106);
 }
 .sideabout  {
-  color: rgb(255, 170, 170);
   margin-left: 10px;
   line-height: 100px;
 }
 .sideabout:hover  {
-  color: rgb(212, 106, 106);
+  color: rgb(173, 68, 124);
 }
 h1  {
   font-size: 15px;
   margin-left: 10px;
-  color: rgb(212, 106, 106);
+  color: rgb(173, 68, 124);
   text-decoration: underline;
 }
 a {
   text-decoration: none;
-  color: rgb(255, 170, 170);
+  color: rgb(212, 145, 251);
 }
 .container-fluid  {
   margin-left: 150px;
@@ -43,18 +45,17 @@ a {
   padding-top: 0px;
   border-top: 0px;
 }
-.jumbotron  {
-  background-color: rgb(0, 0, 0, 0);
-}
 .header {
   text-align: center;
 }
+.header p {
+  text-decoration: underline;
+}
 .abouttext  {
-  background-color: rgb(212, 106, 106);
+  background-color: rgba(173, 68, 124, 0.75);
   border: solid 5px;
   border-radius: 4px;
-  border-color: rgb(212, 106, 106);
-  color: rgb(255, 170, 170);
+  border-color: rgba(173, 68, 124, 0);
   text-shadow: 2px 2px 4px rgb(85, 0, 0);
 }
 .panel-heading  {
@@ -66,7 +67,7 @@ h5  {
 .selfie img {
   float: right;
   margin: 10px;
-  border: solid 2px rgb(85, 0, 0);
+  border: solid 2px rgb(173, 68, 124);
   border-radius: 2px;
 }
 .abouttext a {
@@ -74,10 +75,14 @@ h5  {
 }
 .header  {
   margin-bottom: 90px;
+  font-family: monospace;
 }
 .desc {
-  color: rgb(212, 106, 106);
+  color: rgb(173, 68, 124);
   margin-left: 15px;
   margin-right: 10px;
   font-size: 11px;
+}
+h2  {
+  font-size: 50px;
 }
