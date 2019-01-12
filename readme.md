@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a portfolio that will likely be drastically changed in the future as I learn more about coding, UI, and the various languages and tools that are a part of Front End Development_
+_This is a portfolio that will likely be drastically changed in the future as I learn more about coding, UI, and the various languages and tools that are a part of Front End Development. As it stands, it is used mainly to showcase small exercises I have completed at Epicodus._
 
 ## Setup/Installation Requirements
 
