@@ -27,4 +27,4 @@ _HTML, CSS, Bootstrap, Paint.net, and of course Git Bash and Atom_
 
 ### MIT License
 
-Copyright (c) 2019 **_{Joe Pritchett}_**
+Copyright (c) 2019 **_Joe Pritchett_**
