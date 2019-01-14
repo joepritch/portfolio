@@ -12,7 +12,7 @@ _This is a portfolio that will likely be drastically changed in the future as I 
 
 * _Clone this repo_
 * _Open 'index.html' with your preferred web browser._
-* _Or go to https://joepritch.github.io/portfolio _
+* Or go to https://joepritch.github.io/portfolio
 
 ## Known Bugs
 
